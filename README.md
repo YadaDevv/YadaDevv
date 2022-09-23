@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @YadaDevv
 - 👀 I’m interested in Web applications
-- 🌱 I’m currently learning RectJS along MongoDB/Postgress
+- 🌱 I’m currently learning ReactJS
 - 💞️ I’m looking to collaborate on any related projects
 - 📫 How to reach me --> yadhdevv@gmail.com
 
